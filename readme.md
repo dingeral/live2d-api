@@ -22,7 +22,7 @@
 
 ## v0.01
 
-自建 live2d API cdn
+自建 live2d API
 
 ## v0.02
 
@@ -67,3 +67,11 @@
   width: 280px;
 }
 ```
+
+## v0.04
+
+更换 `cdn` 为 `gcore.jsdelivr.net`
+
+## v0.05
+
+引入模型
