@@ -39,11 +39,8 @@ if (screen.width >= 768) {
 
       tools: [
         "hitokoto",
-        "asteroids",
         "switch-model",
         "switch-texture",
-        "photo",
-        "info",
         "quit",
       ],
     });

@@ -23,3 +23,30 @@
 ## v0.01
 
 自建 live2d API cdn
+
+## v0.02
+
+简化
+
+```js
+      tools: [
+        "hitokoto",
+        "asteroids",
+        "switch-model",
+        "switch-texture",
+        "photo",
+        "info",
+        "quit",
+      ],
+```
+
+`-->`
+
+```js
+      tools: [
+        "hitokoto",
+        "switch-model",
+        "switch-texture",
+        "quit",
+      ],
+```
