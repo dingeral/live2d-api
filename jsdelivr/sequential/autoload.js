@@ -46,6 +46,7 @@ if (screen.width >= 768) {
         "switch-texture",
         "quit",
       ],
+
     });
   });
 }
