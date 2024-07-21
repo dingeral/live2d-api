@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
 // const live2d_path =
-//   "https://fastly.jsdelivr.net/gh/dingeral/live2d-widget@latest/";
+//   "https://gcore.jsdelivr.net/gh/dingeral/live2d-widget@latest/";
 
 const live2d_path = "https://unpkg.com/live2dapi-noa@latest/";
 
