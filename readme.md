@@ -26,7 +26,9 @@
 
 ## v0.02
 
-简化
+简化按钮
+
+`~/jsdelivr/random/autoload.js`
 
 ```js
       tools: [
@@ -49,4 +51,19 @@
         "switch-texture",
         "quit",
       ],
+```
+
+## v0.03
+
+优化大小
+
+`~css/`
+
+```CSS
+#live2d {
+  cursor: grab;
+  height: 280px;
+  position: relative;
+  width: 280px;
+}
 ```
