@@ -1,6 +1,7 @@
 {
   "models": [
     "P1",
+    "hibiki",
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
