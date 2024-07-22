@@ -94,6 +94,14 @@
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
     ],
+    ["leila", "madierda", "siluokayi", "xinxiya"],
+    ["ship/209_2", "ship/248_1", "ship/325_1"],
+    [
+      "kesshouban", "Epsilon", "haru01", "haru02"
+    ],
+    [
+      "hibiki", "tororo"
+    ],
     [
       "AK12/ak12_0/normal",
       "AK12/ak12_0/destroy",
@@ -146,24 +154,6 @@
       "carcano/carcano1938_2904/destroy"
     ],
     [
-      "g36c/g36c_1202/normal",
-      "g36c/g36c_1202/destroy",
-      "g36c/g36c_3103/normal",
-      "g36c/g36c_3103/destroy",
-      "g36c/g36c_3802/normal",
-      "g36c/g36c_3802/destroy",
-      "g36c/g36c_5201/normal",
-      "g36c/g36c_5201/destroy"
-    ],
-    [
-      "saiga12/saiga12_3901/normal",
-      "saiga12/saiga12_3901/destroy",
-      "saiga12/saiga12_4510/normal",
-      "saiga12/saiga12_4510/destroy",
-      "saiga12/saiga12_5402/normal",
-      "saiga12/saiga12_5402/destroy"
-    ],
-    [
       "ump45/ump45_2107/normal",
       "ump45/ump45_2107/destroy",
       "ump45/ump45_3403/normal",
@@ -181,9 +171,6 @@
       "wa2000/wa2000_1108/normal",
       "wa2000/wa2000_1108/destroy"
     ],
-
-    ["leila", "madierda", "siluokayi", "xinxiya"],
-    ["ship/209_2", "ship/248_1", "ship/325_1"],
     [
       "95type/95type_405/normal",
       "95type/95type_405/destroy",
@@ -195,18 +182,6 @@
       "97type/97type_406/destroy",
       "97type/97type_3703/normal",
       "97type/97type_3703/destroy"
-    ],
-    [
-      "dsr50/dsr50_1801/normal",
-      "dsr50/dsr50_1801/destroy",
-      "dsr50/dsr50_2101/normal",
-      "dsr50/dsr50_2101/destroy"
-    ],
-    [
-      "UMP9/ump9_2106/normal",
-      "UMP9/ump9_2106/destroy",
-      "UMP9/ump9_3404/normal",
-      "UMP9/ump9_3404/destroy"
     ],
     [
       "m4/m4 sopmod ii_4507/normal",
