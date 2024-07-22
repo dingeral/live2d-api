@@ -1,7 +1,6 @@
 {
   "models": [
-      "Potion-Maker-Pio",
-      "kesshouban",
+    "kesshouban",
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
@@ -134,7 +133,6 @@
     ]
   ],
   "messages": [
-    "来自 Potion Maker 的 Pio 酱~ ",
     "血小板~ ",
     "Shizuku Talk ！这里是 Shizuku~ ",
     "少女前线 Girls Frontline~ AK12",
