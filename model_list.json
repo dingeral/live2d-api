@@ -1,7 +1,9 @@
 {
   "models": [
-    "Potion-Maker/Pio",
-    "Potion-Maker/Tia",
+    [
+      "Potion-Maker/Pio",
+      "Potion-Maker/Tia"
+    ],
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
