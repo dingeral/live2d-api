@@ -2,7 +2,7 @@
 // const live2d_path =
 //   "https://gcore.jsdelivr.net/gh/dingeral/live2d-widget@latest/";
 
-const live2d_path = "https://gcore.jsdelivr.net/gh/dingeral/live2d-api@0.4/";
+const live2d_path = "https://gcore.jsdelivr.net/gh/dingeral/live2d-api@latest/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
