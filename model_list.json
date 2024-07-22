@@ -1,9 +1,7 @@
 {
   "models": [
-    [
-      "Potion-Maker/Pio",
-      "Potion-Maker/Tia"
-    ],
+      "Potion-Maker-Pio",
+      "kesshouban",
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
@@ -137,7 +135,7 @@
   ],
   "messages": [
     "来自 Potion Maker 的 Pio 酱~ ",
-    "来自 Potion Maker 的 Tia 酱~ ",
+    "血小板~ ",
     "Shizuku Talk ！这里是 Shizuku~ ",
     "少女前线 Girls Frontline~ AK12",
     "少女前线 Girls Frontline~ AN-94",
