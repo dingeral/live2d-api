@@ -96,12 +96,8 @@
     ],
     ["leila", "madierda", "siluokayi", "xinxiya"],
     ["ship/209_2", "ship/248_1", "ship/325_1"],
-    [
-      "kesshouban", "Epsilon", "haru01", "haru02"
-    ],
-    [
-      "hibiki", "tororo"
-    ],
+    ["kesshouban", "Epsilon", "haru01", "haru02"],
+    ["hibiki", "tororo"],
     [
       "AK12/ak12_0/normal",
       "AK12/ak12_0/destroy",
