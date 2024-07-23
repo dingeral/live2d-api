@@ -1,6 +1,6 @@
 // 注意：live2d_path 参数应使用绝对路径
 // const live2d_path =
-//   "https://cdn.jsdelivr.net/gh/dingeral/live2d-widget@latest/";
+//   "https://fastly.jsdelivr.net/gh/dingeral/live2d-widget@latest/";
 
 const live2d_path = "https://cdn.jsdelivr.net/gh/dingeral/live2d-api@latest/";
 
@@ -46,7 +46,26 @@ if (screen.width >= 768) {
         "switch-texture",
         "quit",
       ],
-
     });
   });
 }
+
+console.log(`
+  く__,.ヘヽ.        /  ,ー､ 〉
+           ＼ ', !-─‐-i  /  /´
+           ／｀ｰ'       L/／｀ヽ､
+         /   ／,   /|   ,   ,       ',
+       ｲ   / /-‐/  ｉ  L_ ﾊ ヽ!   i
+        ﾚ ﾍ 7ｲ｀ﾄ   ﾚ'ｧ-ﾄ､!ハ|   |
+          !,/7 '0'     ´0iソ|    |
+          |.从"    _     ,,,, / |./    |
+          ﾚ'| i＞.､,,__  _,.イ /   .i   |
+            ﾚ'| | / k_７_/ﾚ'ヽ,  ﾊ.  |
+              | |/i 〈|/   i  ,.ﾍ |  i  |
+             .|/ /  ｉ：    ﾍ!    ＼  |
+              kヽ>､ﾊ    _,.ﾍ､    /､!
+              !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
+              ﾚ'ヽL__|___i,___,ンﾚ|ノ
+                  ﾄ-,/  |___./
+                  'ｰ'    !_,.:
+`);
